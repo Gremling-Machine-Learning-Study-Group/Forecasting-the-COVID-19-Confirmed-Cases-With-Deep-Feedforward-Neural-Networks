@@ -35,24 +35,27 @@ def build_model():
 
 Training for 100000 epochs we reach these results:
 
-Training logs:
+**Training logs:**
 <p align="center">
 <img src="logs.png" align=middle height=250.973825pt/>
 </p>
 
-Fitting the data with our Black-Box model:
+**Fitting the data with our Black-Box model:**
 <p align="center">
 <img src="data_fit.png" align=middle height=250.973825pt/>
 </p>
 
-Script logs:
+**Script logs:**
+
 Test MSE: 0.09059482492625202 (Medium Squared Error);
+
 Test MAE 0.12379367269721686 (Medium Arithmetic Error);
+
 Time: 527.2131970649998 (in seconds, on Google Collaboratory).
 
 ## Using the trained network to forecast the next days:
 
-Logs:
+**Logs:**
 
 Day of the year:  82.0   Forecasting of confirmed cases:  [74.30464] (22/03/2020) 
 
@@ -76,7 +79,7 @@ Day of the year:  91.0   Forecasting of confirmed cases:  [253.28593]
 
 Day of the year:  92.0   Forecasting of confirmed cases:  [273.16483] 
 
-Graph:
+**Graph:**
 <p align="center">
 <img src="forecasting.png" align=middle height=250.973825pt/>
 </p>
