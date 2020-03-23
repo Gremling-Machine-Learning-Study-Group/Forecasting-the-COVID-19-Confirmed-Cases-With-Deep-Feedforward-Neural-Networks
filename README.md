@@ -81,7 +81,7 @@ Day of the year:  92.0   Forecasting of confirmed cases:  [273.16483]
 
 **Graph:**
 <p align="center">
-<img src="forecasting.png" align=middle height=250.973825pt/>
+<img src="forecasting.png" align=middle height=300pt/>
 </p>
 
 ## Conclusions:
