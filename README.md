@@ -6,7 +6,7 @@ These scripts try to forecast the number of confirmed cases of COVID-19 on **Min
 
 ## Training the Deep (not so deep) FeedForward Neural Network:
 
-The first step is to cread a Dataset. The data was gatered from the "Coronavirus - Brazil"* dataset on Kaggle on the day 22/03/2020. After this we extract the information about the days reports and the confirmed cases at that report for the Minas Gerais state, with this, we make some tensors to use like samples and targets for the training.
+The first step is to create a Dataset. The data was gatered from the "Coronavirus - Brazil"* dataset on Kaggle on the day 22/03/2020. After this we extract the information about the days reports and the confirmed cases at that report for the Minas Gerais state, with this, we make some tensors to use like samples and targets for the training.
 
 We can make simple scripts using the API Keras. The structure used was as follows:
 
