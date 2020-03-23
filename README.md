@@ -1,3 +1,5 @@
+Original repository by: @adsmendesdaniel
+
 **Attention:** Feedforward Networks arent the best Neural Network structure to approach this type of problem. The ideal would be at least use a Recurrent Neural Network (RNN) or more efficient estructures like Long Short-Term Memory (LSTM) or Gated Recurrent Unit (GRU). **Check my repositories for new implementations**.
 
 # Time Forecasting the COVID-19 Confirmed Cases With Deep (Not so deep) Feedforward Neural Networks
