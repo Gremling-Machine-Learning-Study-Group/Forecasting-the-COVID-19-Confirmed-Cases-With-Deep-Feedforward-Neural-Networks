@@ -1,4 +1,4 @@
-Original repository by: github.com/adsmendesdaniel
+Original repository by: https://github.com/adsmendesdaniel
 
 **Attention:** Feedforward Networks arent the best Neural Network structure to approach this type of problem. The ideal would be at least use a Recurrent Neural Network (RNN) or more efficient estructures like Long Short-Term Memory (LSTM) or Gated Recurrent Unit (GRU). **Check my repositories for new implementations**.
 
