@@ -53,16 +53,27 @@ Time: 527.2131970649998 (in seconds, on Google Collaboratory).
 ## Using the trained network to forecast the next days:
 
 Logs:
+
 Day of the year:  82.0   Forecasting of confirmed cases:  [74.30464] (22/03/2020) 
+
 Day of the year:  83.0   Forecasting of confirmed cases:  [94.14468] 
+
 Day of the year:  84.0   Forecasting of confirmed cases:  [114.03029] 
+
 Day of the year:  85.0   Forecasting of confirmed cases:  [133.91684] 
+
 Day of the year:  86.0   Forecasting of confirmed cases:  [153.80338] 
+
 Day of the year:  87.0   Forecasting of confirmed cases:  [173.70389] 
+
 Day of the year:  88.0   Forecasting of confirmed cases:  [193.60515] 
+
 Day of the year:  89.0   Forecasting of confirmed cases:  [213.50491] 
+
 Day of the year:  90.0   Forecasting of confirmed cases:  [233.40076] 
+
 Day of the year:  91.0   Forecasting of confirmed cases:  [253.28593] 
+
 Day of the year:  92.0   Forecasting of confirmed cases:  [273.16483] 
 
 Graph:
@@ -70,7 +81,7 @@ Graph:
 <img src="forecasting.png" align=middle height=250.973825pt/>
 </p>
 
-##Conclusions:
+## Conclusions:
 
 Again, Feedforward Neural Networks arent good at this type of problem (time-forecasting), so, dont take this result too seriously. But with more data we could achiev more realistic results, especially at short variations of time.
 
