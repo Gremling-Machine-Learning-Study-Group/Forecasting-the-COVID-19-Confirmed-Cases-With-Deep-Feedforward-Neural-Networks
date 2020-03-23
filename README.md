@@ -92,6 +92,6 @@ The ideal would be to use RNN, LSTM or GNU networks. Luckily, with Keras we can 
 
 At this time, with our dataset, we cant predict the number of deaths on the next days since there are no actual confirmed cases, so, the Deep Neural Network cant forecast since there are no information about the evolution of the system in time.
 
-## REFERENCES:
+## References:
 * **"Coronavirus - Brazil" Dataset on Kaggle:** https://www.kaggle.com/unanimad/corona-virus-brazil/version/22 (Viewed on: 22/03/2020)
 
